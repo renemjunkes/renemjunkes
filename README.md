@@ -12,17 +12,5 @@
 ### Data Science
 
 
-</div>
 
-<br>
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelbosse26&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rafaelbosse26&theme=tokyonight" alt="GitHub Streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelbosse26&layout=compact&theme=tokyonight" alt="Top Langs" />
-</div>
 

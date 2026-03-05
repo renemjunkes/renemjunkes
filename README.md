@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=00D9F7&center=true&vCenter=true&width=435&lines=Hello!+My+name+is+Ren%C3%A9+Junkes;Data+Scientist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&weight=600&size=45&pause=1000&color=00D1F7&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Ren%C3%A9+junkes;Data+Scientist+)](https://git.io/typing-svg)
 
 ### Main skills: 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp; 
